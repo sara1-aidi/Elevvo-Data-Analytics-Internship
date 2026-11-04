@@ -1,32 +1,54 @@
 # Elevvo Data Analytics Internship Tasks
 
-This repository contains the projects completed during my Data Analytics Internship at Elevvo. 
+Welcome to my Data Analytics portfolio! This repository contains the projects and tasks I completed during my internship at Elevvo. The tasks cover a range of data analysis skills, from Excel dashboarding to Python EDA, SQL querying, and advanced business analytics.
 
-## 📂 Completed Projects
+## 📂 Project Directory
 
-### 1. SQL Sales Analysis
-*   **Description:** Analyzed sales data using SQL queries to identify top-performing products and regional trends.
-*   **Tools:** SQL
+Here is a breakdown of the tasks completed in this repository:
 
-### 2. Customer Segmentation (RFM Analysis)
-*   **Description:** Used Python to perform RFM (Recency, Frequency, Monetary) analysis to segment customers into distinct groups for targeted marketing.
-*   **Tools:** Python, Pandas, Jupyter Notebook
+### [Task 1: Sales Performance Dashboard Using Excel](./Task_1_Excel_Dashboard)
+*   **Description:** Imported and cleaned the Superstore Sales dataset. Built an interactive dashboard utilizing Pivot Tables, Pivot Charts, and Slicers to track key business metrics.
+*   **Key Achievements:** Calculated total revenue, profit margins, and visualized monthly trends. Added dynamic slicers to filter by Region and Product Category, and implemented MoM/YoY calculations.
+*   **Tools Used:** Microsoft Excel (Pivot Tables, Slicers, Advanced Formulas)
 
-### 3. Titanic Exploratory Data Analysis (EDA)
-*   **Description:** Performed data cleaning and exploratory analysis to find correlations between passenger features and survival rates.
-*   **Tools:** Python, Pandas, Matplotlib/Seaborn, Jupyter Notebook
+### [Task 2: Exploratory Data Analysis on Titanic Dataset](./Task_2_Titanic_EDA)
+*   **Description:** Explored the classic Titanic dataset to understand factors that influenced passenger survival.
+*   **Key Achievements:** Handled missing values, performed data type conversions, and generated group-based insights (e.g., survival rates by gender and passenger class). Visualized key patterns using heatmaps and bar plots.
+*   **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
 
-### 4. Superstore Sales Dashboard
-*   **Description:** Created an interactive Excel dashboard to visualize sales performance, profit margins, and sales trends over time.
-*   **Tools:** Microsoft Excel
+### [Task 3: Customer Segmentation Using RFM Analysis](./Task_3_RFM_Segmentation)
+*   **Description:** Analyzed customer purchasing behavior using the Recency, Frequency, and Monetary (RFM) model to group customers based on their value.
+*   **Key Achievements:** Engineered RFM scores, segmented the customer base, and suggested simple marketing strategies for each group (e.g., targeted discounts for "At Risk" customers).
+*   **Tools Used:** Python (Pandas)
 
-### 5. [Insert Task 5 Name Here]
-*   **Description:** [Briefly describe what you did]
-*   **Tools:** [List tools]
-
-### 6. [Insert Task 6 Name Here]
-*   **Description:** [Briefly describe what you did]
-*   **Tools:** [List tools]
+### [Task 5: SQL-Based Analysis of Product Sales](./Task_5_SQL_Sales)
+*   **Description:** Used SQL to analyze a relational sales database (Chinook database) to answer key business questions regarding product performance.
+*   **Key Achievements:** Wrote complex queries utilizing `JOIN`s to combine tables, and used aggregations to find top-selling products and revenue per region.
+*   **Tools Used:** SQL ([Insert the specific dialect here, e.g., SQLite, MySQL, PostgreSQL])
 
 ---
-*Completed as part of the Elevvo Internship Program.*
+
+## 🚀 Upcoming Projects (In Progress)
+
+### [Task 8: Power BI Dashboard for Retail Insights](./Task_8_PowerBI)
+*   **Description:** Building an interactive Power BI dashboard from a cleaned retail dataset, featuring KPIs for total revenue, top products, and sales by region.
+*   **Tools:** Power BI Desktop
+
+### [Task 9: Business Insights & Executive Report (Cohort Analysis)](./Task_9_Cohort_Analysis)
+*   **Description:** Analyzing the Brazilian E-Commerce (Olist) dataset to build a Cohort Analysis heatmap. The goal is to calculate customer retention rates and build a proper Star Schema data model before visualizing.
+*   **Tools:** SQL, Python (Pandas), Power BI/Tableau
+
+---
+
+## 🛠️ Core Skills Demonstrated
+*   **Data Manipulation & Cleaning:** Python (Pandas), Excel
+*   **Data Visualization:** Excel (Pivot Charts), Python (Matplotlib, Seaborn), Power BI
+*   **Database Querying:** SQL (Joins, Aggregations, Window Functions)
+*   **Business Analytics:** RFM Segmentation, Dashboarding, Customer Retention Analysis
+
+## 📬 Contact
+*   **LinkedIn:** www.linkedin.com/in/sara-aidi-2a830123a
+*   **Email:** sara.aidi@univ-constantine2.dz
+
+---
+*This repository is part of the Elevvo Internship Program.*
