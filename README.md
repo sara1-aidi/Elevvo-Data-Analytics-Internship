@@ -16,15 +16,15 @@ Here is a breakdown of the tasks completed in this repository:
 *   **Key Achievements:** Handled missing values, performed data type conversions, and generated group-based insights (e.g., survival rates by gender and passenger class). Visualized key patterns using heatmaps and bar plots.
 *   **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
 
-### [Task 3: Customer Segmentation Using RFM Analysis](./Task_3_RFM_Segmentation)
+### [Task 3: Customer Segmentation Using RFM Analysis](./Task_3_RFM_Analysis)
 *   **Description:** Analyzed customer purchasing behavior using the Recency, Frequency, and Monetary (RFM) model to group customers based on their value.
 *   **Key Achievements:** Engineered RFM scores, segmented the customer base, and suggested simple marketing strategies for each group (e.g., targeted discounts for "At Risk" customers).
 *   **Tools Used:** Python (Pandas)
 
-### [Task 5: SQL-Based Analysis of Product Sales](./Task_5_SQL_Sales)
+### [Task 5: SQL-Based Analysis of Product Sales](./SQL_Sales_Analysis)
 *   **Description:** Used SQL to analyze a relational sales database (Chinook database) to answer key business questions regarding product performance.
 *   **Key Achievements:** Wrote complex queries utilizing `JOIN`s to combine tables, and used aggregations to find top-selling products and revenue per region.
-*   **Tools Used:** SQL ([Insert the specific dialect here, e.g., SQLite, MySQL, PostgreSQL])
+*   **Tools Used:** SQL (SQLite/MySQL/PostgreSQL)
 
 ---
 
