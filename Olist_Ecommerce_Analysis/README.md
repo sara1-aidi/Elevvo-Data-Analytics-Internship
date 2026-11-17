@@ -17,14 +17,6 @@ An end-to-end data analytics project exploring customer retention, cohort analys
 - Matplotlib & Seaborn
 - Power BI
 
-## Project Structure
-
-- `notebooks/` — Data analysis and cohort analysis.
-- `sql/` — SQL queries and star schema.
-- `data/` — Processed analytical datasets.
-- `images/` — Analysis visualizations.
-- `powerbi/` — Dashboard and screenshots.
-
 ## Dataset
 
 Brazilian E-Commerce Public Dataset by Olist.
